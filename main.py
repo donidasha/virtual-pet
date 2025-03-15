@@ -1,7 +1,7 @@
 import json
 import pygame as pg
 import random
-
+# Коментарий
 # инициализация pg
 pg.init()
 
