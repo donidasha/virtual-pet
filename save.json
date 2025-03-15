@@ -1,0 +1,30 @@
+{
+    "happiness": 96,
+    "satiety": 96,
+    "health": 99,
+    "money": 9,
+    "coins_per_second": 1,
+    "clothes": [
+        {
+            "name": "Синяя футболка",
+            "price": 10,
+            "image": "images/items/blue t-shirt.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Ботинки",
+            "price": 50,
+            "image": "images/items/boots.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Шляпа",
+            "price": 50,
+            "image": "images/items/hat.png",
+            "is_using": false,
+            "is_bought": false
+        }
+    ]
+}
